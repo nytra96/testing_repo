@@ -5,7 +5,7 @@
 - Ensure to link to any necessary DDL scripts in this PR
 
 ### After opening the PR
-- Ask for a review in the BI Udvikler Teams chat.
+- Ask a fellow developer for a review, either in the developer Teams chat or directly.
 - Remember to select the correct merge strategy, when merging the PR. When merging between development and main use a merge commit, when merging feature branches to development or hotfixes to main use squash and merge. The rules for this are also outlined in our [Development Process](https://gjensidige.atlassian.net/wiki/spaces/BIDK/pages/77267576/Development+process+-+dbt)
 
 ### (Optional) Post link to DDL here:
