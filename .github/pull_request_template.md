@@ -1,8 +1,8 @@
 ### Before opening the PR
-- Ensure your changes are well tested
-- Ensure your changes follow the rules of our [Modelling Conventions](https://gjensidige.atlassian.net/wiki/spaces/BIDK/pages/27531267/Modelling+conventions+-+dbt) 
-- Ensure the PR is merging into the correct branch: development or main.
-- Ensure to link to any necessary DDL scripts in this PR
+- [ ]  Ensure your changes are well tested
+- [ ]  Ensure your changes follow the rules of our [Modelling Conventions](https://gjensidige.atlassian.net/wiki/spaces/BIDK/pages/27531267/Modelling+conventions+-+dbt) 
+- [ ]  Ensure the PR is merging into the correct branch: development or main.
+- [ ]  Ensure to link to any necessary DDL scripts in this PR
 
 ### After opening the PR
 - Ask a fellow developer for a review, either in the developer Teams chat or directly.
